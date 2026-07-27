@@ -8,7 +8,7 @@ I am a Student, pursuing my way through DSA, AI/ML and DL
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [spkarajagi2006@gmail.com](mailto:spkarajagi2006@gmail.com)
-* 🧠  I'm currently learning Computer Vision
+* 🧠  I'm currently learning Computer Vision & ML Workloads with TPUs.
 * 👥  I'm looking to collaborate on Internships/ Projects you'd like to do with me!
 
 <p align="left">
