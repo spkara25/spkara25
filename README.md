@@ -2,8 +2,6 @@
 
 ### Learning AI-Based Workflows, side-by-side with Java Backend. 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spkara25" alt="spkara25" /></a> </p>
-
 - 🔭 I'm currently working on **ConveyorBelt - upgradation to ConveyorBeltV2 
 PixelVault - upgradation to Full-Stack Digital Asset Marketplace - PixelVaultV2**
 
