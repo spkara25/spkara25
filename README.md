@@ -3,7 +3,7 @@
 ### Learning AI-Based Workflows, side-by-side with Java Backend. 
 
 - 🔭 I'm currently working on **ConveyorBelt - upgradation to ConveyorBeltV2 
-PixelVault - upgradation to Full-Stack Digital Asset Marketplace - PixelVaultV2**
+ & PixelVault - upgradation to Full-Stack Digital Asset Marketplace - PixelVaultV2**
 
 - 🌱 I'm currently learning **Python libraries - numpy, pandas, tensorflow, scikitlearn
 Java Library Tools**
