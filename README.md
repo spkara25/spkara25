@@ -138,6 +138,6 @@ I enjoy solving problems, building cool projects, and yes... I still think I'm f
 
 ---
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=spkara25" alt="GitHub Streak"/>
-</p>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=spkara25&theme=tokyonight" alt="GitHub Streak"/>
+</a>
