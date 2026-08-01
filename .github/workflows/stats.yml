@@ -1,0 +1,29 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate Stats Card
+        uses: stats-organization/github-readme-stats-action@v1.0.0
+        with:
+          card: stats
+          options: 'username=spkara25&show_icons=true&theme=tokyonight&hide_border=true'
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate Top Languages Card
+        uses: stats-organization/github-readme-stats-action@v1.0.0
+        with:
+          card: top-langs
+          options: 'username=spkara25&layout=compact&theme=tokyonight&hide_border=true'
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
