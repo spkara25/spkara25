@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shreeja
 
-### 🤖 Aspiring AI/ML Engineer | Java Backend Developer
+### 🤖 Aspiring AI/ML Engineer/ MLOps Engineer | Java Developer
 
 💡 Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Software Engineering**.
 
