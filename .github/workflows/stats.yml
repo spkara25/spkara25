@@ -28,7 +28,7 @@ jobs:
           card: top-langs
           options: 'username=spkara25&layout=compact&theme=tokyonight&hide_border=true'
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
 
       - name: Commit and push SVGs
         run: |
