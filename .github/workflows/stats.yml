@@ -18,7 +18,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1.0.0
         with:
           card: stats
-          options: 'username=spkara25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true
+          options: 'username=spkara25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true'
           path: profile/stats.svg
           token: ${{ secrets.PAT }}
           
