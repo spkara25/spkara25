@@ -11,7 +11,7 @@
 - 👯 Open to collaborating on **AI/ML, Backend Development & Open Source**
 - 🎯 Currently improving **DSA, System Design & MLOps**
 - 📫 **spkarajagi2006@gmail.com**
-- 📄 [Resume](https://drive.google.com/file/d/1yOGYN1mulWZto0r1pDXGD4NFR_64x8-T/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1ygychDjm34v8Wh2g10y5W-tnTpW-uPVk/view?usp=sharing)
 
 ## 🌐 Connect
 
