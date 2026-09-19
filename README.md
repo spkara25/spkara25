@@ -47,7 +47,9 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-<img height="165" src="./profile/stats.svg" alt="My GitHub Stats" />
-<img height="165" src="./profile/top-langs.svg" alt="My Top Languages" />
+<img height="165" src="https://github.com/spkara25/spkara25/blob/main/profile/stats.svg?raw=true" alt="My GitHub Stats" />
+<img height="165" src="https://github.com/spkara25/spkara25/blob/main/profile/top-langs.svg?raw=true" alt="My Top Languages" />
 </p>
