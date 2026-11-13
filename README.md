@@ -1,19 +1,19 @@
-# Hi 👋, I'm Shreeja
+# Hi! I'm Shreeja K
 
-### 🤖 Aspiring AI/ML Engineer/ MLOps Engineer | Java Developer
+### Aspiring MLOps Engineer | Java Developer
 
 💡 Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Software Engineering**.
 
-- 🔭 Building **ConveyorBeltV2** (ML Predictive Maintenance)
+- Building **ConveyorBeltV2** (ML Predictive Maintenance)
 - Recently built **PixelVaultV2** (Full-Stack Digital Asset Marketplace) and Deployed on AWS 
-- 📑 Currently researching about Efficient Placement of Virtual Machines in Cloud Servers
-- 🌱 Learning **Machine Learning, Deep Learning, NLP, Computer Vision, AI Agents, LLMs, Python for AI & AWS**
-- 👯 Open to collaborating on **AI/ML, Backend Development & Open Source**
-- 🎯 Currently improving **DSA, System Design & MLOps**
-- 📫 **spkarajagi2006@gmail.com**
-- 📄 [Resume](https://drive.google.com/file/d/1ygychDjm34v8Wh2g10y5W-tnTpW-uPVk/view?usp=sharing)
+- Currently researching about Efficient Placement of Virtual Machines in Cloud Servers
+- Learning **Machine Learning, Deep Learning, NLP, Computer Vision, AI Agents, LLMs, Python for AI & AWS**
+- Open to collaborating on **AI/ML, Backend Development & Open Source**
+- Currently improving **DSA, System Design & MLOps**
+- Email - **spkarajagi2006@gmail.com**
+- Resume -  [Resume](https://drive.google.com/file/d/1ygychDjm34v8Wh2g10y5W-tnTpW-uPVk/view?usp=sharing)
 
-## 🌐 Connect
+## Connect with me!
 
 <p align="left">
 <a href="https://github.com/spkara25"><img src="https://skillicons.dev/icons?i=github" /></a>
@@ -22,7 +22,7 @@
 <a href="https://leetcode.com/spkara25"><img src="https://cdn.simpleicons.org/leetcode" width="48"/></a>
 </p>
 
-## 💻 Tech Stack
+## Tech Stacks
 
 **Languages**
 
@@ -42,7 +42,7 @@
 **Backend & Cloud**
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,mysql,docker,aws,git,github,linux,figma"/>
+<img src="https://skillicons.dev/icons?i=nodejs,react,mysql,docker,aws,git,github,linux,figma"/>
 </p>
 
 ## 📊 GitHub Stats
