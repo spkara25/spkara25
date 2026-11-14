@@ -1,6 +1,6 @@
 # Hi! I'm Shreeja K
 
-### Aspiring MLOps Engineer | Java Developer
+### Aspiring MLOps Engineer | Java Developer | Training in Competitive Programming 
 
 💡 Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Software Engineering**.
 
