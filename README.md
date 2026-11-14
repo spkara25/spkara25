@@ -2,12 +2,12 @@
 
 ### Aspiring MLOps Engineer | Java Developer | Training in Competitive Programming 
 
-💡 Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Software Engineering**.
+💡 Computer Science student passionate about **Artificial Intelligence, Machine Learning, Software Engineering and Competitive Programming**.
 
 - Building **ConveyorBeltV2** (ML Predictive Maintenance)
 - Recently built **PixelVaultV2** (Full-Stack Digital Asset Marketplace) and Deployed on AWS 
 - Currently researching about Efficient Placement of Virtual Machines in Cloud Servers
-- Learning **Machine Learning, Deep Learning, NLP, Computer Vision, AI Agents, LLMs, Python for AI & AWS**
+- Learning **AIML Stack and Competitive Programming**
 - Open to collaborating on **AI/ML, Backend Development & Open Source**
 - Currently improving **DSA, System Design & MLOps**
 - Email - **spkarajagi2006@gmail.com**
